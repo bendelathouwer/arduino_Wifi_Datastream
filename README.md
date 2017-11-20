@@ -14,7 +14,7 @@ The required library’s found in the Arduino library manager
 ![libary maneger](https://user-images.githubusercontent.com/6255058/33036263-26019ae4-ce2e-11e7-89f3-74459195792e.png)
 
 
-Adafruit  IO arduino
+Adafruit  IO arduino ( next images found at https://learn.adafruit.com/adafruit-io-basics-esp8266-arduino/adafruit-io-setup?view=all)
 
 ![arduinoiolib](https://user-images.githubusercontent.com/6255058/33036295-3b020d3e-ce2e-11e7-995f-50f1d9771ef1.JPG)
 
